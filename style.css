@@ -25,6 +25,7 @@ main {
 .image-container img {
     width: 100%;
     border-radius: 10px;
+    display: block;
 }
 
 .qr-text {
@@ -36,7 +37,7 @@ main {
     font-size: 1.4rem;
     font-weight: 700;
     text-align: center;
-
+    color: hsl(218, 44%, 22%)
 }
 
 .qr-text p {
@@ -49,7 +50,7 @@ main {
 
 @media screen and (min-width:375px) {
     main {
-        width: 320px;
-        height: 470px;
+        max-width: 320px;
+
     }
 }
