@@ -8,7 +8,7 @@
 - Solution URL: [Solution](https://github.com/ramakrishnagarlapati/qr-code-component)
 - Live Site URL: [Live Url](https://ramakrishnagarlapati.github.io/qr-code-component/)
 
-## My process
+
 
 ### Built with
 
